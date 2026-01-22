@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org">
+  <!-- Фон: стильный темный асфальт -->
+  <rect width="1200" height="630" fill="#1a1a1a"/>
+  
+  <!-- Декоративная оранжевая полоса (акцент) -->
+  <rect x="0" y="580" width="1200" height="50" fill="#ff6600"/>
+  
+  <!-- Иконка колеса (упрощенная) -->
+  <circle cx="200" cy="315" r="80" stroke="#ff6600" stroke-width="20" fill="none"/>
+  <circle cx="200" cy="315" r="30" fill="#ff6600"/>
+  
+  <!-- Текст -->
+  <text x="350" y="300" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#ffffff">ШИНОМОНТАЖ</text>
+  <text x="350" y="400" font-family="Arial, sans-serif" font-size="100" font-weight="bold" fill="#ff6600">ДЕРБЕНТ</text>
+  
+  <!-- Доп. инфо -->
+  <text x="350" y="500" font-family="Arial, sans-serif" font-size="40" fill="#cccccc">Быстро • Качественно • 24/7</text>
+</svg>
