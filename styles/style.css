@@ -14,12 +14,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Raleway", sans-serif;
+  font-family: sans-serif;
 }
 
 body {
   line-height: 1.6;
   color: var(--dark);
+  font-family: sans-serif;
 }
 
 /* Шапка */
@@ -50,12 +51,14 @@ header {
 }
 
 .header__title {
-    text-transform: uppercase;
+  text-transform: uppercase;
+  font-family: sans-serif;
 }
 
 /* Главный экран */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
     url("../images/krepost.jpg");
   background-size: cover;
   background-position: center;
